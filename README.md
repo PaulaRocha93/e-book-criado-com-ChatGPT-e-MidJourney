@@ -21,3 +21,4 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 # E-book:
 
+[E-book - A Arte dos Prompts Eficiente - Desperte o Poder da IA.pdf](https://github.com/user-attachments/files/18203728/E-book.-.A.Arte.dos.Prompts.Eficiente.-.Desperte.o.Poder.da.IA.pdf)
